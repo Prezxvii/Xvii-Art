@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="Ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header onclick="goToMainPage()" onclick="toggleSection('XVII Art')">
+      <h1>XVII Art</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="info.html" onclick="toggleSection('home')">Home</a></li>
+        <li><a href="about.html" onclick="toggleSection('about')">About</a></li>
+        <li>
+          <a href="contact.html" onclick="toggleSection('contact')">Contact</a>
+        </li>
+        <li>
+          <a href="gallery.html" onclick="toggleSection('art-gallery')"
+            >Art Gallery</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <main>
+      <section id="home" class="content-section">
+        <h2>Home</h2>
+        <p>
+          Welcome to our vibrant digital canvas! Dive into a world where art
+          transcends boundaries. Our home section showcases a curated selection
+          of captivating artworks, spanning diverse genres and styles. Immerse
+          yourself in the rich tapestry of creativity as you explore the latest
+          additions and featured masterpieces. Whether you're an art enthusiast
+          or a casual admirer, our home section is the gateway to an inspiring
+          visual journey.
+        </p>
+        <p><a href="gallery.html">Click to Enter the Gallery!</a></p>
+      </section>
+
+      <section id="contact" class="content-section">
+        <h2>Contact</h2>
+        <p>
+          Connect with us and be a part of the conversation! The 'Contact'
+          section is your portal to engaging with our vibrant community. Whether
+          you have inquiries, suggestions, or simply want to share your
+          thoughts, we're here to listen. Reach out through our user-friendly
+          contact form, and our dedicated team will respond promptly. Stay
+          connected with the latest updates, events, and opportunities by
+          following us on social media. Your feedback and ideas are invaluable
+          as we continue to build a platform that celebrates the boundless
+          beauty of artistic expression.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy: 2024 XVII Website. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
