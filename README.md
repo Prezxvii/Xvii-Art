@@ -6,3 +6,4 @@ https://prezxvii.github.io/Xvii-Art/
 
 <img width="976" alt="Screenshot 2024-02-14 at 7 00 42 PM" src="https://github.com/Prezxvii/Xvii-Art/assets/122589070/81813531-d770-46e6-8f6f-9b8eecac6c92">
 
+<img width="1440" alt="Screenshot 2024-02-14 at 7 04 06 PM" src="https://github.com/Prezxvii/Xvii-Art/assets/122589070/1377a4de-3236-4350-9afe-e2bc7e9df0d7">
